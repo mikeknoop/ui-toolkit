@@ -84,7 +84,7 @@
   </script>
 
   <h1>ui-toolkit</h1>
-  <h2>A toolkit to provide stock similiar-looking Facebook UI form elements using JS/CSS.</h2>
+  <h2>A toolkit to provide stock similar-looking Facebook UI form elements using JS/CSS.</h2>
   <h2><a href="https://github.com/mikeknoop/ui-toolkit">Available on Github here</a>.</h2>
   
   <form id="uiFormExample" name="uiFormExample" class="uiForm" method="post" action="">
