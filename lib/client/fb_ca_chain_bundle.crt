@@ -9,7 +9,7 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <script>var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-        <title>src/facebook.php at master from facebook/php-sdk - GitHub</title>
+        <title>src/fb_ca_chain_bundle.crt at master from facebook/php-sdk - GitHub</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
 
@@ -39,7 +39,7 @@
     </script>
 
     
-  <link rel='canonical' href='/facebook/php-sdk/blob/1bf0ec7068e4a8a65f33b2351ef2abb680d14586/src/facebook.php'>
+  <link rel='canonical' href='/facebook/php-sdk/blob/1bf0ec7068e4a8a65f33b2351ef2abb680d14586/src/fb_ca_chain_bundle.crt'>
 
   <link href="https://github.com/facebook/php-sdk/commits/master.atom" rel="alternate" title="Recent Commits to php-sdk:master" type="application/atom+xml" />
 
@@ -48,7 +48,7 @@
       GitHub.nameWithOwner = GitHub.nameWithOwner || "facebook/php-sdk";
       GitHub.currentRef = 'master';
       GitHub.commitSHA = "1bf0ec7068e4a8a65f33b2351ef2abb680d14586";
-      GitHub.currentPath = 'src/facebook.php';
+      GitHub.currentPath = 'src/fb_ca_chain_bundle.crt';
       GitHub.masterBranch = "master";
 
       
@@ -240,37 +240,37 @@
       <a href="#" class="dropdown ">Switch Tags (11)</a>
               <ul>
                       
-              <li><a href="/facebook/php-sdk/blob/v3.0.0/src/facebook.php" data-name="v3.0.0">v3.0.0</a></li>
+              <li><a href="/facebook/php-sdk/blob/v3.0.0/src/fb_ca_chain_bundle.crt" data-name="v3.0.0">v3.0.0</a></li>
             
                       
-              <li><a href="/facebook/php-sdk/blob/v2.1.2/src/facebook.php" data-name="v2.1.2">v2.1.2</a></li>
+              <li><a href="/facebook/php-sdk/blob/v2.1.2/src/fb_ca_chain_bundle.crt" data-name="v2.1.2">v2.1.2</a></li>
             
                       
-              <li><a href="/facebook/php-sdk/blob/v2.1.1/src/facebook.php" data-name="v2.1.1">v2.1.1</a></li>
+              <li><a href="/facebook/php-sdk/blob/v2.1.1/src/fb_ca_chain_bundle.crt" data-name="v2.1.1">v2.1.1</a></li>
             
                       
-              <li><a href="/facebook/php-sdk/blob/v2.1.0/src/facebook.php" data-name="v2.1.0">v2.1.0</a></li>
+              <li><a href="/facebook/php-sdk/blob/v2.1.0/src/fb_ca_chain_bundle.crt" data-name="v2.1.0">v2.1.0</a></li>
             
                       
-              <li><a href="/facebook/php-sdk/blob/v2.0.7/src/facebook.php" data-name="v2.0.7">v2.0.7</a></li>
+              <li><a href="/facebook/php-sdk/blob/v2.0.7/src/fb_ca_chain_bundle.crt" data-name="v2.0.7">v2.0.7</a></li>
             
                       
-              <li><a href="/facebook/php-sdk/blob/v2.0.6/src/facebook.php" data-name="v2.0.6">v2.0.6</a></li>
+              <li><a href="/facebook/php-sdk/blob/v2.0.6/src/fb_ca_chain_bundle.crt" data-name="v2.0.6">v2.0.6</a></li>
             
                       
-              <li><a href="/facebook/php-sdk/blob/v2.0.4/src/facebook.php" data-name="v2.0.4">v2.0.4</a></li>
+              <li><a href="/facebook/php-sdk/blob/v2.0.4/src/fb_ca_chain_bundle.crt" data-name="v2.0.4">v2.0.4</a></li>
             
                       
-              <li><a href="/facebook/php-sdk/blob/v2.0.3/src/facebook.php" data-name="v2.0.3">v2.0.3</a></li>
+              <li><a href="/facebook/php-sdk/blob/v2.0.3/src/fb_ca_chain_bundle.crt" data-name="v2.0.3">v2.0.3</a></li>
             
                       
-              <li><a href="/facebook/php-sdk/blob/v2.0.2/src/facebook.php" data-name="v2.0.2">v2.0.2</a></li>
+              <li><a href="/facebook/php-sdk/blob/v2.0.2/src/fb_ca_chain_bundle.crt" data-name="v2.0.2">v2.0.2</a></li>
             
                       
-              <li><a href="/facebook/php-sdk/blob/v2.0.1/src/facebook.php" data-name="v2.0.1">v2.0.1</a></li>
+              <li><a href="/facebook/php-sdk/blob/v2.0.1/src/fb_ca_chain_bundle.crt" data-name="v2.0.1">v2.0.1</a></li>
             
                       
-              <li><a href="/facebook/php-sdk/blob/v2.0.0/src/facebook.php" data-name="v2.0.0">v2.0.0</a></li>
+              <li><a href="/facebook/php-sdk/blob/v2.0.0/src/fb_ca_chain_bundle.crt" data-name="v2.0.0">v2.0.0</a></li>
             
                   </ul>
       
@@ -510,8 +510,8 @@
 
   
 
-    <div class="breadcrumb" data-path="src/facebook.php/">
-      <b><a href="/facebook/php-sdk/tree/1bf0ec7068e4a8a65f33b2351ef2abb680d14586">php-sdk</a></b> / <a href="/facebook/php-sdk/tree/1bf0ec7068e4a8a65f33b2351ef2abb680d14586/src">src</a> / facebook.php       <span style="display:none" id="clippy_2505">src/facebook.php</span>
+    <div class="breadcrumb" data-path="src/fb_ca_chain_bundle.crt/">
+      <b><a href="/facebook/php-sdk/tree/5a4df76d207a85cbb84fad915dd2b671cce3b9f4">php-sdk</a></b> / <a href="/facebook/php-sdk/tree/5a4df76d207a85cbb84fad915dd2b671cce3b9f4/src">src</a> / fb_ca_chain_bundle.crt       <span style="display:none" id="clippy_1390">src/fb_ca_chain_bundle.crt</span>
       
       <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
               width="110"
@@ -522,7 +522,7 @@
       <param name="allowScriptAccess" value="always" />
       <param name="quality" value="high" />
       <param name="scale" value="noscale" />
-      <param NAME="FlashVars" value="id=clippy_2505&amp;copied=copied!&amp;copyto=copy to clipboard">
+      <param NAME="FlashVars" value="id=clippy_1390&amp;copied=copied!&amp;copyto=copy to clipboard">
       <param name="bgcolor" value="#FFFFFF">
       <param name="wmode" value="opaque">
       <embed src="https://d3nwyuy0nl342s.cloudfront.net/flash/clippy.swf?v5"
@@ -533,7 +533,7 @@
              allowScriptAccess="always"
              type="application/x-shockwave-flash"
              pluginspage="http://www.macromedia.com/go/getflashplayer"
-             FlashVars="id=clippy_2505&amp;copied=copied!&amp;copyto=copy to clipboard"
+             FlashVars="id=clippy_1390&amp;copied=copied!&amp;copyto=copy to clipboard"
              bgcolor="#FFFFFF"
              wmode="opaque"
       />
@@ -543,11 +543,11 @@
     </div>
 
     <div class="frames">
-      <div class="frame frame-center" data-path="src/facebook.php/" data-canonical-url="/facebook/php-sdk/blob/1bf0ec7068e4a8a65f33b2351ef2abb680d14586/src/facebook.php">
+      <div class="frame frame-center" data-path="src/fb_ca_chain_bundle.crt/" data-canonical-url="/facebook/php-sdk/blob/5a4df76d207a85cbb84fad915dd2b671cce3b9f4/src/fb_ca_chain_bundle.crt">
         
           <ul class="big-actions">
             
-            <li><a class="file-edit-link minibutton" href="/facebook/php-sdk/file-edit/__current_ref__/src/facebook.php"><span>Edit this file</span></a></li>
+            <li><a class="file-edit-link minibutton" href="/facebook/php-sdk/file-edit/__current_ref__/src/fb_ca_chain_bundle.crt"><span>Edit this file</span></a></li>
           </ul>
         
 
@@ -558,20 +558,20 @@
                 <span class="icon"><img alt="Txt" height="16" src="https://d3nwyuy0nl342s.cloudfront.net/images/icons/txt.png" width="16" /></span>
                 <span class="mode" title="File Mode">100644</span>
                 
-                  <span>84 lines (74 sloc)</span>
+                  <span>122 lines (121 sloc)</span>
                 
-                <span>2.608 kb</span>
+                <span>7.505 kb</span>
               </div>
               <ul class="actions">
-                <li><a href="/facebook/php-sdk/raw/master/src/facebook.php" id="raw-url">raw</a></li>
+                <li><a href="/facebook/php-sdk/raw/master/src/fb_ca_chain_bundle.crt" id="raw-url">raw</a></li>
                 
-                  <li><a href="/facebook/php-sdk/blame/master/src/facebook.php">blame</a></li>
+                  <li><a href="/facebook/php-sdk/blame/master/src/fb_ca_chain_bundle.crt">blame</a></li>
                 
-                <li><a href="/facebook/php-sdk/commits/master/src/facebook.php">history</a></li>
+                <li><a href="/facebook/php-sdk/commits/master/src/fb_ca_chain_bundle.crt">history</a></li>
               </ul>
             </div>
             
-  <div class="data type-php">
+  <div class="data type-plain">
     
       <table cellpadding="0" cellspacing="0">
         <tr>
@@ -660,12 +660,50 @@
 <span id="L82" rel="#L82">82</span>
 <span id="L83" rel="#L83">83</span>
 <span id="L84" rel="#L84">84</span>
+<span id="L85" rel="#L85">85</span>
+<span id="L86" rel="#L86">86</span>
+<span id="L87" rel="#L87">87</span>
+<span id="L88" rel="#L88">88</span>
+<span id="L89" rel="#L89">89</span>
+<span id="L90" rel="#L90">90</span>
+<span id="L91" rel="#L91">91</span>
+<span id="L92" rel="#L92">92</span>
+<span id="L93" rel="#L93">93</span>
+<span id="L94" rel="#L94">94</span>
+<span id="L95" rel="#L95">95</span>
+<span id="L96" rel="#L96">96</span>
+<span id="L97" rel="#L97">97</span>
+<span id="L98" rel="#L98">98</span>
+<span id="L99" rel="#L99">99</span>
+<span id="L100" rel="#L100">100</span>
+<span id="L101" rel="#L101">101</span>
+<span id="L102" rel="#L102">102</span>
+<span id="L103" rel="#L103">103</span>
+<span id="L104" rel="#L104">104</span>
+<span id="L105" rel="#L105">105</span>
+<span id="L106" rel="#L106">106</span>
+<span id="L107" rel="#L107">107</span>
+<span id="L108" rel="#L108">108</span>
+<span id="L109" rel="#L109">109</span>
+<span id="L110" rel="#L110">110</span>
+<span id="L111" rel="#L111">111</span>
+<span id="L112" rel="#L112">112</span>
+<span id="L113" rel="#L113">113</span>
+<span id="L114" rel="#L114">114</span>
+<span id="L115" rel="#L115">115</span>
+<span id="L116" rel="#L116">116</span>
+<span id="L117" rel="#L117">117</span>
+<span id="L118" rel="#L118">118</span>
+<span id="L119" rel="#L119">119</span>
+<span id="L120" rel="#L120">120</span>
+<span id="L121" rel="#L121">121</span>
+<span id="L122" rel="#L122">122</span>
 </pre>
           </td>
           <td width="100%">
             
               
-                <div class="highlight"><pre><div class='line' id='LC1'><span class="cp">&lt;?php</span></div><div class='line' id='LC2'><span class="sd">/**</span></div><div class='line' id='LC3'><span class="sd"> * Copyright 2011 Facebook, Inc.</span></div><div class='line' id='LC4'><span class="sd"> *</span></div><div class='line' id='LC5'><span class="sd"> * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may</span></div><div class='line' id='LC6'><span class="sd"> * not use this file except in compliance with the License. You may obtain</span></div><div class='line' id='LC7'><span class="sd"> * a copy of the License at</span></div><div class='line' id='LC8'><span class="sd"> *</span></div><div class='line' id='LC9'><span class="sd"> *     http://www.apache.org/licenses/LICENSE-2.0</span></div><div class='line' id='LC10'><span class="sd"> *</span></div><div class='line' id='LC11'><span class="sd"> * Unless required by applicable law or agreed to in writing, software</span></div><div class='line' id='LC12'><span class="sd"> * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT</span></div><div class='line' id='LC13'><span class="sd"> * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the</span></div><div class='line' id='LC14'><span class="sd"> * License for the specific language governing permissions and limitations</span></div><div class='line' id='LC15'><span class="sd"> * under the License.</span></div><div class='line' id='LC16'><span class="sd"> */</span></div><div class='line' id='LC17'><br/></div><div class='line' id='LC18'><span class="k">require_once</span> <span class="s2">&quot;base_facebook.php&quot;</span><span class="p">;</span></div><div class='line' id='LC19'><br/></div><div class='line' id='LC20'><span class="sd">/**</span></div><div class='line' id='LC21'><span class="sd"> * Extends the BaseFacebook class with the intent of using</span></div><div class='line' id='LC22'><span class="sd"> * PHP sessions to store user ids and access tokens.</span></div><div class='line' id='LC23'><span class="sd"> */</span></div><div class='line' id='LC24'><span class="k">class</span> <span class="nc">Facebook</span> <span class="k">extends</span> <span class="nx">BaseFacebook</span></div><div class='line' id='LC25'><span class="p">{</span></div><div class='line' id='LC26'>&nbsp;&nbsp;<span class="sd">/**</span></div><div class='line' id='LC27'><span class="sd">   * Identical to the parent constructor, except that</span></div><div class='line' id='LC28'><span class="sd">   * we start a PHP session to store the user ID and</span></div><div class='line' id='LC29'><span class="sd">   * access token if during the course of execution</span></div><div class='line' id='LC30'><span class="sd">   * we discover them.</span></div><div class='line' id='LC31'><span class="sd">   *</span></div><div class='line' id='LC32'><span class="sd">   * @param Array $config the application configuration.</span></div><div class='line' id='LC33'><span class="sd">   * @see BaseFacebook::__construct in facebook.php</span></div><div class='line' id='LC34'><span class="sd">   */</span></div><div class='line' id='LC35'>&nbsp;&nbsp;<span class="k">public</span> <span class="k">function</span> <span class="nf">__construct</span><span class="p">(</span><span class="nv">$config</span><span class="p">)</span> <span class="p">{</span></div><div class='line' id='LC36'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">parent</span><span class="o">::</span><span class="na">__construct</span><span class="p">(</span><span class="nv">$config</span><span class="p">);</span></div><div class='line' id='LC37'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="nb">isset</span><span class="p">(</span><span class="nv">$_SESSION</span><span class="p">))</span> <span class="p">{</span></div><div class='line' id='LC38'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nb">session_start</span><span class="p">();</span></div><div class='line' id='LC39'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="p">}</span></div><div class='line' id='LC40'>&nbsp;&nbsp;<span class="p">}</span></div><div class='line' id='LC41'><br/></div><div class='line' id='LC42'>&nbsp;&nbsp;<span class="sd">/**</span></div><div class='line' id='LC43'><span class="sd">   * Provides the implementations of the inherited abstract</span></div><div class='line' id='LC44'><span class="sd">   * methods.  The implementation uses PHP sessions to maintain</span></div><div class='line' id='LC45'><span class="sd">   * a store for user ids and access tokens.</span></div><div class='line' id='LC46'><span class="sd">   */</span></div><div class='line' id='LC47'>&nbsp;&nbsp;<span class="k">protected</span> <span class="k">static</span> <span class="nv">$kSupportedKeys</span> <span class="o">=</span></div><div class='line' id='LC48'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">array</span><span class="p">(</span><span class="s1">&#39;code&#39;</span><span class="p">,</span> <span class="s1">&#39;access_token&#39;</span><span class="p">,</span> <span class="s1">&#39;user_id&#39;</span><span class="p">);</span></div><div class='line' id='LC49'><br/></div><div class='line' id='LC50'>&nbsp;&nbsp;<span class="k">protected</span> <span class="k">function</span> <span class="nf">setPersistentData</span><span class="p">(</span><span class="nv">$key</span><span class="p">,</span> <span class="nv">$value</span><span class="p">)</span> <span class="p">{</span></div><div class='line' id='LC51'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="nb">in_array</span><span class="p">(</span><span class="nv">$key</span><span class="p">,</span> <span class="nx">self</span><span class="o">::</span><span class="nv">$kSupportedKeys</span><span class="p">))</span> <span class="p">{</span></div><div class='line' id='LC52'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nx">self</span><span class="o">::</span><span class="na">errorLog</span><span class="p">(</span><span class="s1">&#39;Unsupported key passed to setPersistentData.&#39;</span><span class="p">);</span></div><div class='line' id='LC53'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">return</span><span class="p">;</span></div><div class='line' id='LC54'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="p">}</span></div><div class='line' id='LC55'><br/></div><div class='line' id='LC56'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nv">$session_var_name</span> <span class="o">=</span> <span class="nv">$this</span><span class="o">-&gt;</span><span class="na">constructSessionVariableName</span><span class="p">(</span><span class="nv">$key</span><span class="p">);</span></div><div class='line' id='LC57'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nv">$_SESSION</span><span class="p">[</span><span class="nv">$session_var_name</span><span class="p">]</span> <span class="o">=</span> <span class="nv">$value</span><span class="p">;</span></div><div class='line' id='LC58'>&nbsp;&nbsp;<span class="p">}</span></div><div class='line' id='LC59'><br/></div><div class='line' id='LC60'>&nbsp;&nbsp;<span class="k">protected</span> <span class="k">function</span> <span class="nf">getPersistentData</span><span class="p">(</span><span class="nv">$key</span><span class="p">,</span> <span class="nv">$default</span> <span class="o">=</span> <span class="k">false</span><span class="p">)</span> <span class="p">{</span></div><div class='line' id='LC61'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="nb">in_array</span><span class="p">(</span><span class="nv">$key</span><span class="p">,</span> <span class="nx">self</span><span class="o">::</span><span class="nv">$kSupportedKeys</span><span class="p">))</span> <span class="p">{</span></div><div class='line' id='LC62'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nx">self</span><span class="o">::</span><span class="na">errorLog</span><span class="p">(</span><span class="s1">&#39;Unsupported key passed to getPersistentData.&#39;</span><span class="p">);</span></div><div class='line' id='LC63'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">return</span> <span class="nv">$default</span><span class="p">;</span></div><div class='line' id='LC64'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="p">}</span></div><div class='line' id='LC65'><br/></div><div class='line' id='LC66'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nv">$session_var_name</span> <span class="o">=</span> <span class="nv">$this</span><span class="o">-&gt;</span><span class="na">constructSessionVariableName</span><span class="p">(</span><span class="nv">$key</span><span class="p">);</span></div><div class='line' id='LC67'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">return</span> <span class="nb">isset</span><span class="p">(</span><span class="nv">$_SESSION</span><span class="p">[</span><span class="nv">$session_var_name</span><span class="p">])</span> <span class="o">?</span></div><div class='line' id='LC68'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nv">$_SESSION</span><span class="p">[</span><span class="nv">$session_var_name</span><span class="p">]</span> <span class="o">:</span> <span class="nv">$default</span><span class="p">;</span></div><div class='line' id='LC69'>&nbsp;&nbsp;<span class="p">}</span></div><div class='line' id='LC70'><br/></div><div class='line' id='LC71'>&nbsp;&nbsp;<span class="k">protected</span> <span class="k">function</span> <span class="nf">clearAllPersistentData</span><span class="p">()</span> <span class="p">{</span></div><div class='line' id='LC72'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">foreach</span> <span class="p">(</span><span class="nx">self</span><span class="o">::</span><span class="nv">$kSupportedKeys</span> <span class="k">as</span> <span class="nv">$key</span><span class="p">)</span> <span class="p">{</span></div><div class='line' id='LC73'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nv">$session_var_name</span> <span class="o">=</span> <span class="nv">$this</span><span class="o">-&gt;</span><span class="na">constructSessionVariableName</span><span class="p">(</span><span class="nv">$key</span><span class="p">);</span></div><div class='line' id='LC74'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nb">unset</span><span class="p">(</span><span class="nv">$_SESSION</span><span class="p">[</span><span class="nv">$session_var_name</span><span class="p">]);</span></div><div class='line' id='LC75'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="p">}</span></div><div class='line' id='LC76'>&nbsp;&nbsp;<span class="p">}</span></div><div class='line' id='LC77'><br/></div><div class='line' id='LC78'>&nbsp;&nbsp;<span class="k">protected</span> <span class="k">function</span> <span class="nf">constructSessionVariableName</span><span class="p">(</span><span class="nv">$key</span><span class="p">)</span> <span class="p">{</span></div><div class='line' id='LC79'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">return</span> <span class="nb">implode</span><span class="p">(</span><span class="s1">&#39;_&#39;</span><span class="p">,</span> <span class="k">array</span><span class="p">(</span><span class="s1">&#39;fb&#39;</span><span class="p">,</span></div><div class='line' id='LC80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nv">$this</span><span class="o">-&gt;</span><span class="na">getAppId</span><span class="p">(),</span></div><div class='line' id='LC81'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nv">$key</span><span class="p">));</span></div><div class='line' id='LC82'>&nbsp;&nbsp;<span class="p">}</span></div><div class='line' id='LC83'><span class="p">}</span></div><div class='line' id='LC84'><br/></div></pre></div>
+                <div class="highlight"><pre><div class='line' id='LC1'>-----BEGIN CERTIFICATE-----</div><div class='line' id='LC2'>MIIFgjCCBGqgAwIBAgIQDKKbZcnESGaLDuEaVk6fQjANBgkqhkiG9w0BAQUFADBm</div><div class='line' id='LC3'>MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3</div><div class='line' id='LC4'>d3cuZGlnaWNlcnQuY29tMSUwIwYDVQQDExxEaWdpQ2VydCBIaWdoIEFzc3VyYW5j</div><div class='line' id='LC5'>ZSBDQS0zMB4XDTEwMDExMzAwMDAwMFoXDTEzMDQxMTIzNTk1OVowaDELMAkGA1UE</div><div class='line' id='LC6'>BhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExEjAQBgNVBAcTCVBhbG8gQWx0bzEX</div><div class='line' id='LC7'>MBUGA1UEChMORmFjZWJvb2ssIEluYy4xFzAVBgNVBAMUDiouZmFjZWJvb2suY29t</div><div class='line' id='LC8'>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9rzj7QIuLM3sdHu1HcI1VcR3g</div><div class='line' id='LC9'>b5FExKNV646agxSle1aQ/sJev1mh/u91ynwqd2BQmM0brZ1Hc3QrfYyAaiGGgEkp</div><div class='line' id='LC10'>xbhezyfeYhAyO0TKAYxPnm2cTjB5HICzk6xEIwFbA7SBJ2fSyW1CFhYZyo3tIBjj</div><div class='line' id='LC11'>19VjKyBfpRaPkzLmRwIDAQABo4ICrDCCAqgwHwYDVR0jBBgwFoAUUOpzidsp+xCP</div><div class='line' id='LC12'>nuUBINTeeZlIg/cwHQYDVR0OBBYEFPp+tsFBozkjrHlEnZ9J4cFj2eM0MA4GA1Ud</div><div class='line' id='LC13'>DwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMF8GA1UdHwRYMFYwKaAnoCWGI2h0dHA6</div><div class='line' id='LC14'>Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9jYTMtZmIuY3JsMCmgJ6AlhiNodHRwOi8vY3Js</div><div class='line' id='LC15'>NC5kaWdpY2VydC5jb20vY2EzLWZiLmNybDCCAcYGA1UdIASCAb0wggG5MIIBtQYL</div><div class='line' id='LC16'>YIZIAYb9bAEDAAEwggGkMDoGCCsGAQUFBwIBFi5odHRwOi8vd3d3LmRpZ2ljZXJ0</div><div class='line' id='LC17'>LmNvbS9zc2wtY3BzLXJlcG9zaXRvcnkuaHRtMIIBZAYIKwYBBQUHAgIwggFWHoIB</div><div class='line' id='LC18'>UgBBAG4AeQAgAHUAcwBlACAAbwBmACAAdABoAGkAcwAgAEMAZQByAHQAaQBmAGkA</div><div class='line' id='LC19'>YwBhAHQAZQAgAGMAbwBuAHMAdABpAHQAdQB0AGUAcwAgAGEAYwBjAGUAcAB0AGEA</div><div class='line' id='LC20'>bgBjAGUAIABvAGYAIAB0AGgAZQAgAEQAaQBnAGkAQwBlAHIAdAAgAEMAUAAvAEMA</div><div class='line' id='LC21'>UABTACAAYQBuAGQAIAB0AGgAZQAgAFIAZQBsAHkAaQBuAGcAIABQAGEAcgB0AHkA</div><div class='line' id='LC22'>IABBAGcAcgBlAGUAbQBlAG4AdAAgAHcAaABpAGMAaAAgAGwAaQBtAGkAdAAgAGwA</div><div class='line' id='LC23'>aQBhAGIAaQBsAGkAdAB5ACAAYQBuAGQAIABhAHIAZQAgAGkAbgBjAG8AcgBwAG8A</div><div class='line' id='LC24'>cgBhAHQAZQBkACAAaABlAHIAZQBpAG4AIABiAHkAIAByAGUAZgBlAHIAZQBuAGMA</div><div class='line' id='LC25'>ZQAuMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjANBgkqhkiG9w0BAQUF</div><div class='line' id='LC26'>AAOCAQEACOkTIdxMy11+CKrbGNLBSg5xHaTvu/v1wbyn3dO/mf68pPfJnX6ShPYy</div><div class='line' id='LC27'>4XM4Vk0x4uaFaU4wAGke+nCKGi5dyg0Esg7nemLNKEJaFAJZ9enxZm334lSCeARy</div><div class='line' id='LC28'>wlDtxULGOFRyGIZZPmbV2eNq5xdU/g3IuBEhL722mTpAye9FU/J8Wsnw54/gANyO</div><div class='line' id='LC29'>Gzkewigua8ip8Lbs9Cht399yAfbfhUP1DrAm/xEcnHrzPr3cdCtOyJaM6SRPpRqH</div><div class='line' id='LC30'>ITK5Nc06tat9lXVosSinT3KqydzxBYua9gCFFiR3x3DgZfvXkC6KDdUlDrNcJUub</div><div class='line' id='LC31'>a1BHnLLP4mxTHL6faAXYd05IxNn/IA==</div><div class='line' id='LC32'>-----END CERTIFICATE-----</div><div class='line' id='LC33'>-----BEGIN CERTIFICATE-----</div><div class='line' id='LC34'>MIIGVTCCBT2gAwIBAgIQCFH5WYFBRcq94CTiEsnCDjANBgkqhkiG9w0BAQUFADBs</div><div class='line' id='LC35'>MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3</div><div class='line' id='LC36'>d3cuZGlnaWNlcnQuY29tMSswKQYDVQQDEyJEaWdpQ2VydCBIaWdoIEFzc3VyYW5j</div><div class='line' id='LC37'>ZSBFViBSb290IENBMB4XDTA3MDQwMzAwMDAwMFoXDTIyMDQwMzAwMDAwMFowZjEL</div><div class='line' id='LC38'>MAkGA1UEBhMCVVMxFTATBgNVBAoTDERpZ2lDZXJ0IEluYzEZMBcGA1UECxMQd3d3</div><div class='line' id='LC39'>LmRpZ2ljZXJ0LmNvbTElMCMGA1UEAxMcRGlnaUNlcnQgSGlnaCBBc3N1cmFuY2Ug</div><div class='line' id='LC40'>Q0EtMzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL9hCikQH17+NDdR</div><div class='line' id='LC41'>CPge+yLtYb4LDXBMUGMmdRW5QYiXtvCgFbsIYOBC6AUpEIc2iihlqO8xB3RtNpcv</div><div class='line' id='LC42'>KEZmBMcqeSZ6mdWOw21PoF6tvD2Rwll7XjZswFPPAAgyPhBkWBATaccM7pxCUQD5</div><div class='line' id='LC43'>BUTuJM56H+2MEb0SqPMV9Bx6MWkBG6fmXcCabH4JnudSREoQOiPkm7YDr6ictFuf</div><div class='line' id='LC44'>1EutkozOtREqqjcYjbTCuNhcBoz4/yO9NV7UfD5+gw6RlgWYw7If48hl66l7XaAs</div><div class='line' id='LC45'>zPw82W3tzPpLQ4zJ1LilYRyyQLYoEt+5+F/+07LJ7z20Hkt8HEyZNp496+ynaF4d</div><div class='line' id='LC46'>32duXvsCAwEAAaOCAvcwggLzMA4GA1UdDwEB/wQEAwIBhjCCAcYGA1UdIASCAb0w</div><div class='line' id='LC47'>ggG5MIIBtQYLYIZIAYb9bAEDAAIwggGkMDoGCCsGAQUFBwIBFi5odHRwOi8vd3d3</div><div class='line' id='LC48'>LmRpZ2ljZXJ0LmNvbS9zc2wtY3BzLXJlcG9zaXRvcnkuaHRtMIIBZAYIKwYBBQUH</div><div class='line' id='LC49'>AgIwggFWHoIBUgBBAG4AeQAgAHUAcwBlACAAbwBmACAAdABoAGkAcwAgAEMAZQBy</div><div class='line' id='LC50'>AHQAaQBmAGkAYwBhAHQAZQAgAGMAbwBuAHMAdABpAHQAdQB0AGUAcwAgAGEAYwBj</div><div class='line' id='LC51'>AGUAcAB0AGEAbgBjAGUAIABvAGYAIAB0AGgAZQAgAEQAaQBnAGkAQwBlAHIAdAAg</div><div class='line' id='LC52'>AEMAUAAvAEMAUABTACAAYQBuAGQAIAB0AGgAZQAgAFIAZQBsAHkAaQBuAGcAIABQ</div><div class='line' id='LC53'>AGEAcgB0AHkAIABBAGcAcgBlAGUAbQBlAG4AdAAgAHcAaABpAGMAaAAgAGwAaQBt</div><div class='line' id='LC54'>AGkAdAAgAGwAaQBhAGIAaQBsAGkAdAB5ACAAYQBuAGQAIABhAHIAZQAgAGkAbgBj</div><div class='line' id='LC55'>AG8AcgBwAG8AcgBhAHQAZQBkACAAaABlAHIAZQBpAG4AIABiAHkAIAByAGUAZgBl</div><div class='line' id='LC56'>AHIAZQBuAGMAZQAuMA8GA1UdEwEB/wQFMAMBAf8wNAYIKwYBBQUHAQEEKDAmMCQG</div><div class='line' id='LC57'>CCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wgY8GA1UdHwSBhzCB</div><div class='line' id='LC58'>hDBAoD6gPIY6aHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0SGlnaEFz</div><div class='line' id='LC59'>c3VyYW5jZUVWUm9vdENBLmNybDBAoD6gPIY6aHR0cDovL2NybDQuZGlnaWNlcnQu</div><div class='line' id='LC60'>Y29tL0RpZ2lDZXJ0SGlnaEFzc3VyYW5jZUVWUm9vdENBLmNybDAfBgNVHSMEGDAW</div><div class='line' id='LC61'>gBSxPsNpA/i/RwHUmCYaCALvY2QrwzAdBgNVHQ4EFgQUUOpzidsp+xCPnuUBINTe</div><div class='line' id='LC62'>eZlIg/cwDQYJKoZIhvcNAQEFBQADggEBAF1PhPGoiNOjsrycbeUpSXfh59bcqdg1</div><div class='line' id='LC63'>rslx3OXb3J0kIZCmz7cBHJvUV5eR13UWpRLXuT0uiT05aYrWNTf58SHEW0CtWakv</div><div class='line' id='LC64'>XzoAKUMncQPkvTAyVab+hA4LmzgZLEN8rEO/dTHlIxxFVbdpCJG1z9fVsV7un5Tk</div><div class='line' id='LC65'>1nq5GMO41lJjHBC6iy9tXcwFOPRWBW3vnuzoYTYMFEuFFFoMg08iXFnLjIpx2vrF</div><div class='line' id='LC66'>EIRYzwfu45DC9fkpx1ojcflZtGQriLCnNseaIGHr+k61rmsb5OPs4tk8QUmoIKRU</div><div class='line' id='LC67'>9ZKNu8BVIASm2LAXFszj0Mi0PeXZhMbT9m5teMl5Q+h6N/9cNUm/ocU=</div><div class='line' id='LC68'>-----END CERTIFICATE-----</div><div class='line' id='LC69'>-----BEGIN CERTIFICATE-----</div><div class='line' id='LC70'>MIIEQjCCA6ugAwIBAgIEQoclDjANBgkqhkiG9w0BAQUFADCBwzELMAkGA1UEBhMC</div><div class='line' id='LC71'>VVMxFDASBgNVBAoTC0VudHJ1c3QubmV0MTswOQYDVQQLEzJ3d3cuZW50cnVzdC5u</div><div class='line' id='LC72'>ZXQvQ1BTIGluY29ycC4gYnkgcmVmLiAobGltaXRzIGxpYWIuKTElMCMGA1UECxMc</div><div class='line' id='LC73'>KGMpIDE5OTkgRW50cnVzdC5uZXQgTGltaXRlZDE6MDgGA1UEAxMxRW50cnVzdC5u</div><div class='line' id='LC74'>ZXQgU2VjdXJlIFNlcnZlciBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0wNjEy</div><div class='line' id='LC75'>MjIxNTI3MjdaFw0xNDA3MjIxNTU3MjdaMGwxCzAJBgNVBAYTAlVTMRUwEwYDVQQK</div><div class='line' id='LC76'>EwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5jb20xKzApBgNV</div><div class='line' id='LC77'>BAMTIkRpZ2lDZXJ0IEhpZ2ggQXNzdXJhbmNlIEVWIFJvb3QgQ0EwggEiMA0GCSqG</div><div class='line' id='LC78'>SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGzOVz5vvUu+UtLTKm3+WBP8nNJUm2cSrD</div><div class='line' id='LC79'>1ZQ0Z6IKHLBfaaZAscS3so/QmKSpQVk609yU1jzbdDikSsxNJYL3SqVTEjju80lt</div><div class='line' id='LC80'>cZF+Y7arpl/DpIT4T2JRvvjF7Ns4kuMG5QiRDMQoQVX7y1qJFX5x6DW/TXIJPb46</div><div class='line' id='LC81'>OFBbdzEbjbPHJEWap6xtABRaBLe6E+tRCphBQSJOZWGHgUFQpnlcid4ZSlfVLuZd</div><div class='line' id='LC82'>HFMsfpjNGgYWpGhz0DQEE1yhcdNafFXbXmThN4cwVgTlEbQpgBLxeTmIogIRfCdm</div><div class='line' id='LC83'>t4i3ePLKCqg4qwpkwr9mXZWEwaElHoddGlALIBLMQbtuC1E4uEvLAgMBAAGjggET</div><div class='line' id='LC84'>MIIBDzASBgNVHRMBAf8ECDAGAQH/AgEBMCcGA1UdJQQgMB4GCCsGAQUFBwMBBggr</div><div class='line' id='LC85'>BgEFBQcDAgYIKwYBBQUHAwQwMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzABhhdo</div><div class='line' id='LC86'>dHRwOi8vb2NzcC5lbnRydXN0Lm5ldDAzBgNVHR8ELDAqMCigJqAkhiJodHRwOi8v</div><div class='line' id='LC87'>Y3JsLmVudHJ1c3QubmV0L3NlcnZlcjEuY3JsMB0GA1UdDgQWBBSxPsNpA/i/RwHU</div><div class='line' id='LC88'>mCYaCALvY2QrwzALBgNVHQ8EBAMCAQYwHwYDVR0jBBgwFoAU8BdiE1U9s/8KAGv7</div><div class='line' id='LC89'>UISX8+1i0BowGQYJKoZIhvZ9B0EABAwwChsEVjcuMQMCAIEwDQYJKoZIhvcNAQEF</div><div class='line' id='LC90'>BQADgYEAUuVY7HCc/9EvhaYzC1rAIo348LtGIiMduEl5Xa24G8tmJnDioD2GU06r</div><div class='line' id='LC91'>1kjLX/ktCdpdBgXadbjtdrZXTP59uN0AXlsdaTiFufsqVLPvkp5yMnqnuI3E2o6p</div><div class='line' id='LC92'>NpAkoQSbB6kUCNnXcW26valgOjDLZFOnr241QiwdBAJAAE/rRa8=</div><div class='line' id='LC93'>-----END CERTIFICATE-----</div><div class='line' id='LC94'>-----BEGIN CERTIFICATE-----</div><div class='line' id='LC95'>MIIE2DCCBEGgAwIBAgIEN0rSQzANBgkqhkiG9w0BAQUFADCBwzELMAkGA1UEBhMC</div><div class='line' id='LC96'>VVMxFDASBgNVBAoTC0VudHJ1c3QubmV0MTswOQYDVQQLEzJ3d3cuZW50cnVzdC5u</div><div class='line' id='LC97'>ZXQvQ1BTIGluY29ycC4gYnkgcmVmLiAobGltaXRzIGxpYWIuKTElMCMGA1UECxMc</div><div class='line' id='LC98'>KGMpIDE5OTkgRW50cnVzdC5uZXQgTGltaXRlZDE6MDgGA1UEAxMxRW50cnVzdC5u</div><div class='line' id='LC99'>ZXQgU2VjdXJlIFNlcnZlciBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTAeFw05OTA1</div><div class='line' id='LC100'>MjUxNjA5NDBaFw0xOTA1MjUxNjM5NDBaMIHDMQswCQYDVQQGEwJVUzEUMBIGA1UE</div><div class='line' id='LC101'>ChMLRW50cnVzdC5uZXQxOzA5BgNVBAsTMnd3dy5lbnRydXN0Lm5ldC9DUFMgaW5j</div><div class='line' id='LC102'>b3JwLiBieSByZWYuIChsaW1pdHMgbGlhYi4pMSUwIwYDVQQLExwoYykgMTk5OSBF</div><div class='line' id='LC103'>bnRydXN0Lm5ldCBMaW1pdGVkMTowOAYDVQQDEzFFbnRydXN0Lm5ldCBTZWN1cmUg</div><div class='line' id='LC104'>U2VydmVyIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MIGdMA0GCSqGSIb3DQEBAQUA</div><div class='line' id='LC105'>A4GLADCBhwKBgQDNKIM0VBuJ8w+vN5Ex/68xYMmo6LIQaO2f55M28Qpku0f1BBc/</div><div class='line' id='LC106'>I0dNxScZgSYMVHINiC3ZH5oSn7yzcdOAGT9HZnuMNSjSuQrfJNqc1lB5gXpa0zf3</div><div class='line' id='LC107'>wkrYKZImZNHkmGw6AIr1NJtl+O3jEP/9uElY3KDegjlrgbEWGWG5VLbmQwIBA6OC</div><div class='line' id='LC108'>AdcwggHTMBEGCWCGSAGG+EIBAQQEAwIABzCCARkGA1UdHwSCARAwggEMMIHeoIHb</div><div class='line' id='LC109'>oIHYpIHVMIHSMQswCQYDVQQGEwJVUzEUMBIGA1UEChMLRW50cnVzdC5uZXQxOzA5</div><div class='line' id='LC110'>BgNVBAsTMnd3dy5lbnRydXN0Lm5ldC9DUFMgaW5jb3JwLiBieSByZWYuIChsaW1p</div><div class='line' id='LC111'>dHMgbGlhYi4pMSUwIwYDVQQLExwoYykgMTk5OSBFbnRydXN0Lm5ldCBMaW1pdGVk</div><div class='line' id='LC112'>MTowOAYDVQQDEzFFbnRydXN0Lm5ldCBTZWN1cmUgU2VydmVyIENlcnRpZmljYXRp</div><div class='line' id='LC113'>b24gQXV0aG9yaXR5MQ0wCwYDVQQDEwRDUkwxMCmgJ6AlhiNodHRwOi8vd3d3LmVu</div><div class='line' id='LC114'>dHJ1c3QubmV0L0NSTC9uZXQxLmNybDArBgNVHRAEJDAigA8xOTk5MDUyNTE2MDk0</div><div class='line' id='LC115'>MFqBDzIwMTkwNTI1MTYwOTQwWjALBgNVHQ8EBAMCAQYwHwYDVR0jBBgwFoAU8Bdi</div><div class='line' id='LC116'>E1U9s/8KAGv7UISX8+1i0BowHQYDVR0OBBYEFPAXYhNVPbP/CgBr+1CEl/PtYtAa</div><div class='line' id='LC117'>MAwGA1UdEwQFMAMBAf8wGQYJKoZIhvZ9B0EABAwwChsEVjQuMAMCBJAwDQYJKoZI</div><div class='line' id='LC118'>hvcNAQEFBQADgYEAkNwwAvpkdMKnCqV8IY00F6j7Rw7/JXyNEwr75Ji174z4xRAN</div><div class='line' id='LC119'>95K+8cPV1ZVqBLssziY2ZcgxxufuP+NXdYR6Ee9GTxj005i7qIcyunL2POI9n9cd</div><div class='line' id='LC120'>2cNgQ4xYDiKWL2KjLB+6rQXvqzJ4h6BUcxm1XAX5Uj5tLUUL9wqT6u0G+bI=</div><div class='line' id='LC121'>-----END CERTIFICATE-----</div><div class='line' id='LC122'><br/></div></pre></div>
               
             
           </td>
@@ -715,7 +753,7 @@
           <li><a href="http://status.github.com">Status</a></li>
         </ul>
         <ul class="sosueme">
-          <li class="main">&copy; 2011 <span id="_rrt" title="0.12812s from fe2.rs.github.com">GitHub</span> Inc. All rights reserved.</li>
+          <li class="main">&copy; 2011 <span id="_rrt" title="0.07422s from fe2.rs.github.com">GitHub</span> Inc. All rights reserved.</li>
           <li><a href="/site/terms">Terms of Service</a></li>
           <li><a href="/site/privacy">Privacy</a></li>
           <li><a href="https://github.com/security">Security</a></li>
@@ -1034,7 +1072,7 @@ I think you should use an
     
     <script type='text/javascript'></script>
     
-    <script>(function(){var d=document;var e=d.createElement("script");e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/9/eum/rum.js	";var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(e,s);})();NREUMQ.push(["nrf2","beacon-3.newrelic.com","2f94e4d8c2",64799,"dw1bEBZcX1RWRhoTFVEQRksXW1xP",0.0,816,new Date().getTime()])</script>
+    <script>(function(){var d=document;var e=d.createElement("script");e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/9/eum/rum.js	";var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(e,s);})();NREUMQ.push(["nrf2","beacon-3.newrelic.com","2f94e4d8c2",64799,"dw1bEBZcX1RWRhoEClsAGhYFRA==",0,516,new Date().getTime()])</script>
   </body>
 </html>
 
