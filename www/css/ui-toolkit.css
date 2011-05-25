@@ -1,0 +1,335 @@
+/****** UI CSS ******/
+h1, h2 {
+  margin-left:        15px;
+}
+
+h1 {
+  font-size:          24px;
+  line-height:        30px;
+}
+
+h2 {
+  font-size:          14px;
+  line-height:        20px;
+}
+
+
+/****** COMMON STYLES ******/
+.uiVisible {
+  display:            block !important;
+}
+
+.uiVisibleInline {
+  display:            inline-block !important;
+}
+
+.uiHidden {
+  display:            none;
+}
+
+
+/****** FORM ******/
+.uiForm {
+  background:         #F2F2F2;
+  border:             1px solid #CCC;
+  font-family:        "Lucida Grande", "Tahoma", "Sans-Serif";
+  font-size:          11px;
+  margin:             10px;
+  padding:            35px;
+  width:              760px;
+}
+
+.uiForm td {
+  padding-bottom:     15px;
+}
+
+.uiForm .dataRow {
+}
+
+.uiForm .label {
+  color:              #555;
+  font-weight:        bold;
+  padding-top:        3px;
+  text-align:         left;
+  width:              140px;
+  vertical-align:     top;
+}
+
+.uiForm .data {
+}
+
+.uiForm .submit {
+  padding-top:        15px;
+}
+
+
+/****** SHARED TEXT INPUT STYLES ******/
+.uiTextInputPlaceholder {
+  color:              #777;
+}
+
+
+/****** TEXT BOX ******/
+.uiTextbox {
+  border:             1px solid #bdc7d8;
+  font-family:        "Lucida Grande", "Tahoma", "Sans-Serif";
+  font-size:          11px;
+  padding:            4px 3px 3px 3px;
+  vertical-align:     baseline;
+}
+
+
+/****** TEXT AREA ******/
+.uiTextarea {
+  border:             1px solid #bdc7d8;
+  font-family:        "Lucida Grande", "Tahoma", "Sans-Serif";
+  font-size:          11px;
+  padding:            3px 3px 3px 3px;
+  vertical-align:     baseline;
+}
+
+
+/****** CHECKBOX ******/
+.uiCheckbox {
+  color:              #555;
+  cursor:             pointer;
+  font-family:        "Lucida Grande", "Tahoma", "Sans-Serif";
+  font-size:          11px;
+  font-weight:        bold;
+  vertical-align:     middle;
+}
+
+label.uiCheckbox {
+  padding:            0 5px;
+  vertical-align:     middle;
+}
+
+/****** RADIO BUTTON ******/
+.uiRadio {
+  color:              #555;
+  cursor:             pointer;
+  font-family:        "Lucida Grande", "Tahoma", "Sans-Serif";
+  font-size:          11px;
+  font-weight:        bold;
+  vertical-align:     middle;
+}
+
+label.uiRadio {
+  padding:            0 6px;
+  vertical-align:     middle;
+}
+
+
+/****** SHARED BUTTON STYLES ******/
+.uiButton {
+  background:         url('../img/button.png');
+  background-repeat:  no-repeat;
+  box-shadow:         rgba(0, 0, 0, 0.1) 0px 1px 0px 0px;
+  cursor:             pointer;
+  display:            inline-block;
+  font-family:        "Lucida Grande", "Tahoma", "Sans-Serif";
+  text-decoration:    none;
+}
+
+.uiButton:hover {
+  text-decoration:    none;
+}
+
+
+/****** SUBMIT BUTTON (BLUE) ******/
+.uiButtonSubmit {
+  background-position:0px -48px;
+  border:             solid 1px #1a356e;
+  color:              #FFF;
+  font-size:          13px;
+  font-weight:        bold;
+  line-height:        13px;
+  padding:            5px 7px 6px 6px;
+}
+
+.uiButtonSubmit:active {
+  background-position:0px -71px;
+}
+
+
+/****** LOGIN BUTTON (BLUE) ******/
+.uiButtonLogin {
+  background-position:0px -385px;
+  border:             solid 1px #1a356e;
+  color:              #FFF;
+  display:            none;
+  font-size:          11px;
+  font-weight:        bold;
+  line-height:        11px;
+  padding:            4px 7px 5px 27px;
+}
+
+.uiButtonLogin:active {
+  background-position:0px -408px;
+}
+
+.uiButtonLoggedIn {
+  display:            none;
+}
+
+
+/****** NORMAL BUTTON (GRAY) ******/
+.uiButtonNormal {
+  background-position:0px 0px;
+  border:             solid 1px #888;
+  color:              #333;
+  font-size:          11px;
+  font-weight:        bold;
+  line-height:        11px;
+  padding:            4px 7px 5px 7px;
+}
+
+.uiButtonNormal:active {
+  background-position:0px -24px;
+}
+
+.uiButtonNormalImage {
+  margin-left:       -1px;
+  padding-right:     3px;
+}
+
+
+/****** DROPDOWN SELECT ******/
+/* Note this element has a js component */
+
+.uiSelectHTML {
+  display:            none;
+}
+
+.uiSelectContainer {
+  position:           relative;
+}
+
+.uiButtonSelect {
+  background-position:right -144px;
+  border:             solid 1px #888;
+  color:              #333;
+  font-size:          11px;
+  font-weight:        bold;
+  line-height:        11px;
+  padding:            4px 23px 5px 7px;
+}
+
+.uiButtonSelect:active {
+  background-color:   #ddd;
+  background-position:right -241px;
+}
+
+.uiButtonSelectPressed {
+  color:              #FFF;
+  background-color:   #5872a7;
+  border-color:       #1a356e;
+  background-position:right -337px;
+}
+
+.uiButtonSelectPressed:active {
+  color:              #FFF !important;
+  background-color:   #5872a7 !important;
+  background-position:right -337px !important;
+}
+
+.uiSelectContainer .dropdownContainer { 
+  background:         #FFF;
+  border:             1px solid #777;
+  border-bottom:      2px solid #1a356e;
+  display:            none;
+  font-size:          11px;
+  font-weight:        normal;
+  padding:            4px 0;
+  width:              250px;
+  min-height:         250px;
+  position:           absolute;
+  top:                21px;
+}
+
+.uiSelectContainer .divider {
+  border-bottom:      1px solid #ddd;
+  height:             1px;
+  font-size:          1px;
+  line-height:        1px;
+  margin:             4px 10px 4px 10px;
+  padding:            0;
+  width:              230px;
+}
+
+.uiSelectContainer .row:hover {
+  background-color:   #6d84b4;
+  color:              #FFF;
+  border-top:         1px solid #3b5998;
+  border-bottom:      1px solid #3b5998;
+}
+
+.uiSelectContainer .row {
+  background-color:   #FFF;
+  border-top:         1px solid #FFF;
+  border-bottom:      1px solid #FFF;
+  color:              #000;
+  cursor:             pointer;
+  padding:            3px 20px 4px 20px;
+}
+
+.uiSelectContainer .selected {
+  background-image:   url('../img/checkmark.png');
+  background-repeat:  no-repeat;
+  background-position:0px 5px;
+  font-weight:        bold;
+}
+
+.uiSelectContainer .selected:hover {
+  background-image:   url('../img/checkmark.png') !important;
+  background-position:0px -11px;
+  background-repeat:  no-repeat;
+}
+
+
+/****** LIGHTBOX ******/
+.uiLightbox {
+  background-color:   rgba(82, 82, 82, 0.7);
+  border-bottom-left-radius:  8px;
+  border-bottom-right-radius: 8px;
+  border-top-left-radius:     8px;
+  border-top-right-radius:    8px;
+  color:              #444;
+  display:            none;
+  font-family:        "Lucida Grande", "Tahoma", "Sans-Serif";
+  left:               50%;
+  margin-left:        -280px;
+  position:           absolute;
+  top:                15%;
+  width:              578px;
+}
+
+.uiLightbox .contentContainer {
+  background:         #F2F2F2;
+  border:             1px solid #1a356e;
+  margin:             8px;
+  min-height:         50px;
+  width:              560px;
+}
+
+.uiLightbox .contentLoading { 
+  font-size:          28px;
+  padding:            10px;
+}
+
+.uiLightbox .content {
+  color:              #444;
+  font-family:        "Lucida Grande", "Tahoma", "Sans-Serif";
+  font-size:          11px;
+  max-width:          560px;
+}
+
+.uiLightboxHTML {
+}
+
+.uiLightboxLoading {
+  border:             0;
+  float:              right;
+  margin:             7px;
+  vertical-align:     middle;
+}
