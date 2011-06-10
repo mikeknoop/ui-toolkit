@@ -280,7 +280,6 @@ function uiSelect(el) {
 }
 
 function uiLightbox(el) {
-    
   // Properties
   this.url = $(el).attr('rel');     // URL to ajax load into the lightbox
   this.anchor = el;                 // Anchor tag which is tied to the lightbox
@@ -288,26 +287,39 @@ function uiLightbox(el) {
   this.contentLoaded = false;      // Boolean whether the ajax content has been loaded yet
   this.fbauth = $(el).attr('data-fbauth');         // Facebook auth required to load the url
   this.fbscope = $(el).attr('data-fbscope');        // Permissions required (scope DOM property) to load the ajax script
-  
+  this.stayOpen = $(el).attr('data-stayopen');   // Defines whether the user can close the lightbox by clicking outside of it
+  this.autoOpen = $(el).attr('data-autoopen');   // Defines whether the ligthbox should be automatically opened when initiated
+  this.narrow = $(el).attr('data-narrow');   // Defines whether the lightbox is narrow (Page) or not
+  this.backdrop = $(el).attr('data-backdrop');   // Defines whether to create and show a dark backdrop when open
+    
   // Methods
   this.toggleLightbox = function(force) {
     if (force) {
       if (force == 'hide') {
         $('#'+this.id).removeClass('uiVisible');
+        if (this.backdrop == 'true') {
+          $('#uiLightboxBackdrop-'+this.id).removeClass('uiVisible');
+        }
         return;
       }
       if (force == 'show') {
         $('#'+this.id).addClass('uiVisible');
+        if (this.backdrop == 'true') {
+          $('#uiLightboxBackdrop-'+this.id).addClass('uiVisible');
+        }
         return;
       }
     }
     $('#'+this.id).toggleClass('uiVisible');
+    if (this.backdrop == 'true') {
+      $('#uiLightboxBackdrop-'+this.id).toggleClass('uiVisible');
+    }
   }
   
   this.buildUiLightbox = function() {
     /* Build lightbox to this template:
       <div id='uiLightboxExample' class='uiLightbox'>
-        <div class='content'>
+        <div class='contentContainer'>
           <div class='loading'>
             Loading...
           </div>
@@ -318,11 +330,20 @@ function uiLightbox(el) {
     // First, delete the lightbox if it already exists
     $('#'+this.id).remove();
     
+    if (this.narrow == 'true') {
+      var narrow = ' narrow';
+    } else {
+      var narrow = '';
+    }
+    
+    // Append the lightbox backdrop to the end of body
+    $('body').append('<div id="uiLightboxBackdrop-'+this.id+'" class="uiLightboxBackdrop"></div>');
+    
     // Append the lightbox to the end of body
-    $('body').append('<div id=\''+this.id+'\' class=\'uiLightbox\'></div>');
+    $('body').append('<div id=\''+this.id+'\' class=\'uiLightbox'+narrow+'\'></div>');
     
     // Build rest of template
-    $('#'+this.id).append('<div class=\'contentContainer\'><div class=\'contentLoading\'>Loading...<img class="uiLightboxLoading" src="img/loading.gif" /></div></div>');
+    $('#'+this.id).append('<div class=\'contentContainer'+narrow+'\'><div class=\'contentLoading\'>Loading...<img class="uiLightboxLoading" src="img/loading.gif" /></div></div>');
         
     // Bind a click action to the calling anchor to toggle the lightbox when clicked
     var uiLightbox = this;
@@ -331,7 +352,9 @@ function uiLightbox(el) {
     // Bind a click action to close lightbox if user click outside of it
     var uiLightboxInstance = this;
     $('html').click(function() {
-      uiLightboxInstance.toggleLightbox('hide');
+      if (uiLightboxInstance.stayOpen != 'true') {
+        uiLightboxInstance.toggleLightbox('hide');
+      }
     });
 
     // Stop the propogation of the 'close lightbox' action if user clicks the lightbox or anchor tag
@@ -350,7 +373,8 @@ function uiLightbox(el) {
   this.generateId = function() {
     // Generate a 'unique' Id for this lightbox instance based on url
     var strippedUrl = this.url.replace(/[^A-Za-z0-9]/g, '');
-    return strippedUrl;
+    var timestamp = new Date().getTime();
+    return strippedUrl+timestamp;
   }
   
   this.loadContent = function() {
@@ -385,13 +409,12 @@ function uiLightbox(el) {
     if (typeof timeout === 'undefined') {
       timeoutLength = 0;
     }
-
     $.ajax({
       url: uiLightbox.url,
       cache: false,
       type: 'GET',
       success: function(html) {
-        var uiLightboxContentContainer = $('#'+uiLightbox.id).find('div[class=\'contentContainer\']');
+        var uiLightboxContentContainer = $('#'+uiLightbox.id).find('div[class~=\'contentContainer\']');
         uiLightboxContentContainer.html(html);
         window.uiInit(uiLightboxContentContainer);     // Initialize any ui elements that were just loaded via ajax
         uiLightbox.contentLoaded = true;
@@ -422,8 +445,14 @@ function uiLightbox(el) {
   // Contsructor
   this.id = this.generateId();
   this.buildUiLightbox();
+  if (this.autoOpen == 'true') {
+    this.loadContent();
+    this.toggleLightbox('show');
+  }
   
 }
+
+
 
 // Register ui initialization
 $(document).ready(function() { uiInit(); });

@@ -134,7 +134,16 @@
           
           <!-- This button below initiates a lightbox, it loads the URL defined in the rel tag. 
           Note the class uiLightboxHTML must be present in the anchor tag for the lightbox to get initialized -->
-          <a href="#" class="uiButton uiButtonNormal uiLightboxHTML" rel="ajax/slow-load.php">I load a script into a Lightbox</a>
+          <a href="#" class="uiButton uiButtonNormal uiLightboxHTML" rel="ajax/slow-load.php">Lightbox Example</a>
+          
+          <!-- The lightbox has a few properties:
+               autoopen:  bool, wether to open lightbox on page load
+               stayopen:  bool, wether to let the lightbox close when user clicks outside of it
+                                (otherwise must be closed programatically on a button callback)
+               backdrop:  bool, wether to show a dark background when open. 
+               narrow:    bool, set narrow to true for use in Facebook Pages -->
+          <div class="uiLightboxBackdrop" id="uiLightboxBackdrop"></div>
+          <a href="#" class="uiButton uiButtonNormal uiLightboxHTML" rel="ajax/slow-load.php" data-narrow="false" data-autoopen="false" data-stayopen="true" data-backdrop="true">Lightbox with Background</a>
           
         </td>
       </tr>
@@ -170,11 +179,12 @@
 
         </td>
       </tr>
-      
+
       <tr class="dataRow">
         <th class="label"></th>
         <td class="data submit">
           <a href="#" class="uiButton uiButtonSubmit" onclick="$('#uiFormExample').submit();">Submit Form</a>
+          <a href="#" class="uiButton uiButtonNormal uiButtonLarge" onclick="#">Cancel</a>
         </td>
       </tr>
 

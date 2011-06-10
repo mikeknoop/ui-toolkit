@@ -135,6 +135,12 @@ label.uiRadio {
   text-decoration:    none;
 }
 
+.uiButtonLarge {
+  font-size:          13px !important;
+  font-weight:        bold !important;
+  line-height:        13px !important;
+  padding:            5px 7px 6px 6px !important;
+}
 
 /****** SUBMIT BUTTON (BLUE) ******/
 .uiButtonSubmit {
@@ -302,6 +308,7 @@ label.uiRadio {
   position:           absolute;
   top:                15%;
   width:              578px;
+  z-index:            100;
 }
 
 .uiLightbox .contentContainer {
@@ -317,13 +324,6 @@ label.uiRadio {
   padding:            10px;
 }
 
-.uiLightbox .content {
-  color:              #444;
-  font-family:        "Lucida Grande", "Tahoma", "Sans-Serif";
-  font-size:          11px;
-  max-width:          560px;
-}
-
 .uiLightboxHTML {
 }
 
@@ -332,4 +332,26 @@ label.uiRadio {
   float:              right;
   margin:             7px;
   vertical-align:     middle;
+}
+
+.uiLightbox.narrow {
+  margin-left:        -240px;
+  width:              478px;
+}
+
+.uiLightbox .contentContainer.narrow {
+  width:              460px;
+}
+
+.uiLightboxBackdrop {
+  background-color:   #000;
+  bottom:             0;
+  display:            none;
+  filter:             alpha(opacity=50);
+  left:               0;
+  opacity:            0.5;
+  position:           absolute;
+  right:              0;
+  top:                0;
+  z-index:            99;
 }
